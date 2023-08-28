@@ -1,15 +1,25 @@
 .header {
     display: flex;
     background-color: #1F2937;
+    height: 60px;
+}
+
+.header-left {
+    display: flex;
+    font-size: 18px;
+    color: #E5E7EB;
+    gap: 10px;
+    font-weight: 700;
 }
 
 .header-right {
     display: flex;
-    align-items: flex-end;
     gap: 10px;
     font-size: 18px;
     color: #E5E7EB;
+    flex-grow: 2;
 }
+
 
 li {
     list-style-type: none;
