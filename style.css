@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    background-color: #1F2937;
+}
+
+.header-right {
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+li {
+    list-style-type: none;
+
+}
