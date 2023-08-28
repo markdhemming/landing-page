@@ -1,5 +1,6 @@
 .header {
     display: flex;
+    justify-content: space-around;
     background-color: #1F2937;
     height: 60px;
 }
@@ -14,14 +15,15 @@
 
 .header-right {
     display: flex;
-    gap: 10px;
+    gap: 20px;
     font-size: 18px;
     color: #E5E7EB;
-    flex-grow: 2;
+    
 }
 
 
 li {
     list-style-type: none;
+    display: inline;
 
 }
