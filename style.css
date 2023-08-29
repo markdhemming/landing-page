@@ -27,3 +27,39 @@ li {
     display: inline;
 
 }
+
+.section-two {
+    display: flex;
+
+}
+
+.section-two-left {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-two-right {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    color: #F9FAF8;
+    width: 60px;
+    background-color: #3882F6;
+    border-radius: 5px;
+}
+.subtext {
+    font-size: 18px;
+    color: #E5E7EB;
+     
+}
+
+.hero {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
