@@ -30,6 +30,10 @@ li {
 
 .section-two {
     display: flex;
+    justify-content: space-around;
+    background-color: #1F2937;
+    height: 150px;
+    padding: 160px;
 
 }
 
@@ -42,7 +46,8 @@ li {
     display: flex;
     align-items: center;
     font-size: 18px;
-    color: #E5E7EB;
+    color: #F9FAF8;
+    background-color: #E5E7EB;
 }
 
 button {
