@@ -10,7 +10,7 @@
     font-size: 18px;
     color: #E5E7EB;
     gap: 10px;
-    font-weight: 700;
+    font-weight: 900;
 }
 
 .header-right {
@@ -66,5 +66,13 @@ button {
     font-size: 48px;
     font-weight: 800;
     color: #F9FAF8;
+}
+
+.random {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+    padding: 20px;
 }
 
