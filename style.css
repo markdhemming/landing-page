@@ -76,3 +76,13 @@ button {
     padding: 20px;
 }
 
+.image-section {
+    display: flex;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.quote-section {
+    
+}
+
