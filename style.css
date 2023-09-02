@@ -86,3 +86,8 @@ button {
     
 }
 
+img {
+    border: 2px;
+    border-color: #3882F6; 
+}
+
