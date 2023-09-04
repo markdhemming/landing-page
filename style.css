@@ -80,14 +80,50 @@ button {
     display: flex;
     font-size: 18px;
     color: #E5E7EB;
+    gap: 10px;
+    justify-content: space-around;
+
 }
 
 .quote-section {
+    background-color: #E5E7EB;
+    height: 120px;
+    padding: 150px;
+    font-size: 36px;
+    font-style: italic;
     
 }
 
 img {
-    border: 2px;
-    border-color: #3882F6; 
+    border-radius: 25px;
+    border: 3px solid #3882F6;
+    width: 140px;
+    height: auto;
+     
+}
+
+.image-section1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.image-section2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.image-section3 {
+    display: flex;
+    flex-direction: column;
+}
+
+.image-section4 {
+    display: flex;
+    flex-direction: column;
+
+}
+.quote-2 {
+    font-weight: 700;
 }
 
