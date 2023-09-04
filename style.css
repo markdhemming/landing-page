@@ -127,3 +127,10 @@ img {
     font-weight: 700;
 }
 
+footer {
+    text-align: center;
+    font-size: 18px;
+    color: #E5E7EB;
+    background-color: #1F2937;
+    padding: 20px;
+}
