@@ -48,7 +48,8 @@ li {
     font-size: 18px;
     color: #F9FAF8;
     background-color: #E5E7EB;
-    width: 500px;
+    width: 550px;
+    height: 185px;
 }
 
 button {
@@ -82,7 +83,8 @@ button {
     font-size: 18px;
     color: #E5E7EB;
     gap: 10px;
-    justify-content: space-around;
+    padding: 30px;
+    
     
 
 }
@@ -104,25 +106,31 @@ img {
      
 }
 
+
+
 .image-section1 {
     display: flex;
     flex-direction: column;
+    align-items: center;
     
 }
 
 .image-section2 {
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 .image-section3 {
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 .image-section4 {
     display: flex;
     flex-direction: column;
+    align-items: center;
 
 }
 .quote-2 {
@@ -143,6 +151,8 @@ footer {
     justify-content: center;
     margin: 75px;
     background-color: #3882F6;
+    height: 100px;
+    align-items: center;
 }
 
 .cta-left1 {
