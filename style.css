@@ -134,3 +134,23 @@ footer {
     background-color: #1F2937;
     padding: 20px;
 }
+
+.CTA {
+    display: flex;
+    justify-content: center;
+    margin: 75px;
+    background-color: #3882F6;
+}
+
+.cta-left1 {
+    font-size: 18px;
+    color: #E5E7EB;
+    font-weight: 700;
+
+}
+
+.cta-left2 {
+    font-size: 18px;
+    color: #E5E7EB;
+
+}
