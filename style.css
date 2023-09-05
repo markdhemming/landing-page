@@ -15,7 +15,6 @@
 
 .header-right {
     display: flex;
-    gap: 20px;
     font-size: 18px;
     color: #E5E7EB;
     
@@ -25,6 +24,8 @@
 li {
     list-style-type: none;
     display: inline;
+    margin: 15px;
+    
 
 }
 
@@ -133,6 +134,8 @@ img {
     align-items: center;
 
 }
+
+.textse
 .quote-2 {
     font-weight: 700;
     text-align: end;
