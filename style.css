@@ -50,14 +50,16 @@ li {
     color: #F9FAF8;
     background-color: #E5E7EB;
     width: 550px;
-    height: 185px;
+    height: 120px;
+    padding: 70px;
 }
 
 button {
     color: #F9FAF8;
-    width: 60px;
+    width: 80px;
     background-color: #3882F6;
     border-radius: 5px;
+
 }
 .subtext {
     font-size: 18px;
@@ -135,7 +137,21 @@ img {
 
 }
 
-.textse
+.text-section1 {
+    margin: 60px;
+}
+
+.text-section2 {
+    margin: 60px;
+}
+
+.text-section3 {
+    margin: 60px;
+}
+
+.text-section4 {
+    margin: 60px;
+}
 .quote-2 {
     font-weight: 700;
     text-align: end;
@@ -168,6 +184,7 @@ footer {
 .cta-left2 {
     font-size: 18px;
     color: #E5E7EB;
+    margin-right: 20px;
 
 }
 
